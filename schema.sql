@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS demo_sessions (
+  id TEXT PRIMARY KEY,
+  data TEXT NOT NULL,
+  updated_at INTEGER NOT NULL
+);

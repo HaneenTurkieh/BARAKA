@@ -1,0 +1,10 @@
+node_modules/
+.wrangler/
+.dev.vars
+tmp/
+*.zip
+backend/data/
+.venv/
+__pycache__/
+*.pyc
+.env
