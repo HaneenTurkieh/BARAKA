@@ -109,3 +109,12 @@ No prediction system can guarantee zero error or zero harm. This prototype suppo
 The model learns synthetic patterns, not actual NNU operations. It needs a real cafeteria pilot, timestamped sales/attendance data, prospective evaluation, calibrated uncertainty and verified partners before operational use. The menu has three seeded categories, not unrestricted automatic menu ingestion. Carbon reduction is not estimated, monthly savings are not extrapolated, and organic recovery is not counted as food retained for people.
 
 The research paper supplied with the project is included as background; its claims and third-party comparisons are not independently verified here. See [technical notes](docs/TECHNICAL.md) for the exact implementation and evaluation boundaries.
+
+
+## مواد تسليم المشروع
+
+- [جرّب تطبيق بَرَكة](https://baraka-vmk6.onrender.com/today.html)
+- [العرض على Canva](https://canva.link/kb3txxqjjdykhmm)
+- [فيديو المشروع](barakeh_film_final_silent.mp4)
+- [البحث العلمي](BARAKA_scientific_research.pdf)
+- [عرض بَرَكة PDF](بركة.pdf)
